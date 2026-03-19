@@ -1,2 +1,9 @@
-## Hello friend, I'm a geek from Russia
-- 🌱 I’m currently learning Python/C++
+## Hello friend, I'm a PureCodeee
+
+A backend-focused student exploring programming and building projects
+
+## 🌱 Currently learning:
+* Python
+* SQL and DBs
+* FastAPI
+* C++ as a hobby
