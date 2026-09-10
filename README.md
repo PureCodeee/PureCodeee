@@ -48,23 +48,6 @@ I'm a third-year Information Systems student who enjoys building backend service
 
 ---
 
-# Featured Projects
-
-## 💬 Chat Backend
-
-Production-inspired backend for a real-time chat application.
-
-**Highlights**
-
-* JWT Authentication
-* User Registration
-* PostgreSQL
-* SQLAlchemy
-* Alembic
-* Docker
-* WebSockets
-* Async API
-
 **Tech**
 
 Python • FastAPI • PostgreSQL • Docker
