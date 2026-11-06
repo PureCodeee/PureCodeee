@@ -22,9 +22,7 @@ I'm a third-year Information Systems student who enjoys building backend service
 
 * Python
 * C++
-* JavaScript
 * SQL
-* HTML / CSS
 
 ### Backend
 
@@ -73,21 +71,8 @@ Multiplayer real-time drawing game.
 
 ---
 
-## 🔐 Terminal Password Manager
-
-Terminal password manager written in C++.
-
-**Highlights**
-
-* SQLite database
-* Object-oriented design
-* Command-line interface
-
----
-
 # Currently Learning
 
-* Redis
 * Nginx
 * Testing with pytest
 * CI/CD
@@ -97,10 +82,8 @@ Terminal password manager written in C++.
 
 # Goals
 
-* Build reliable backend applications
 * Improve software architecture skills
 * Contribute to open source
-* Get my first commercial backend developer position
 
 ---
 
