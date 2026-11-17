@@ -18,6 +18,8 @@ I'm a Information Systems student who enjoys building backend services, experime
 
 ## Tech Stack
 
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### Languages
 
 * Python
