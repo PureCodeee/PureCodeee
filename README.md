@@ -24,7 +24,13 @@ I'm a Information Systems student who enjoys building backend services, experime
 
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Languages
 
@@ -38,9 +44,3 @@ I'm a Information Systems student who enjoys building backend services, experime
 * REST API
 * WebSocket
 * JWT Authentication
-
----
-
-**Tech**
-
-Python • FastAPI • PostgreSQL • Docker
