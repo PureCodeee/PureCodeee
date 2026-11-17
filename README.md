@@ -1,4 +1,4 @@
-# Hi, I'm Ivan 👋
+# Ivan
 
 Backend Developer focused on **Python**, **FastAPI** and **real-time applications**.
 
@@ -20,6 +20,12 @@ I'm a Information Systems student who enjoys building backend services, experime
 
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
+
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ### Languages
 
 * Python
@@ -38,41 +44,3 @@ I'm a Information Systems student who enjoys building backend services, experime
 **Tech**
 
 Python • FastAPI • PostgreSQL • Docker
-
----
-
-## 🎮 Fight & Draw
-
-Multiplayer real-time drawing game.
-
-**Highlights**
-
-* WebSocket communication
-* Real-time synchronization
-* Multiplayer game logic
-* FastAPI backend
-
----
-
-
-# Currently Learning
-
-* Nginx
-* Testing with pytest
-* CI/CD
-* System Design
-
----
-
-# Goals
-
-* Improve software architecture skills
-* Contribute to open source
-
----
-
-## Contact
-
-GitHub: https://github.com/PureCodeee
-
-Feel free to explore my repositories or get in touch.
