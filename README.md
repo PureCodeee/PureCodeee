@@ -2,7 +2,7 @@
 
 Backend Developer focused on **Python**, **FastAPI** and **real-time applications**.
 
-I'm a third-year Information Systems student who enjoys building backend services, experimenting with networking, and learning how modern software is designed and deployed.
+I'm a Information Systems student who enjoys building backend services, experimenting with networking, and learning how modern software is designed and deployed.
 
 ---
 
@@ -21,8 +21,8 @@ I'm a third-year Information Systems student who enjoys building backend service
 ### Languages
 
 * Python
-* C++
 * SQL
+* C++
 
 ### Backend
 
@@ -30,19 +30,6 @@ I'm a third-year Information Systems student who enjoys building backend service
 * REST API
 * WebSocket
 * JWT Authentication
-
-### Databases
-
-* PostgreSQL
-* SQLite
-* SQLAlchemy
-* Alembic
-
-### Tools
-
-* Docker
-* Git
-* Linux
 
 ---
 
@@ -65,11 +52,6 @@ Multiplayer real-time drawing game.
 
 ---
 
-## 🌿 Vine Rush
-
-2D browser game written in JavaScript.
-
----
 
 # Currently Learning
 
